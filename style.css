@@ -1,5 +1,13 @@
 body{
-    background-color:rgb(39, 39, 184)
+    background-color:rgb(39, 39, 184);
+    display: flex;
+    justify-content: space-around;
+    padding: 240px 0;
+    font-size:30px;
+}
 
-
+.cabecalholistaitem{
+    display:inline-blockm
+Margin; 0 16px
+padding: 78px 0:
 }
