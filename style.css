@@ -7,28 +7,48 @@ body{
 }
 
 .cabecalholistaitem{
-    display:inline-blockm
-Margin; 0 16px
-padding: 78px 0:
+    display:inline-block;
+margin: 0 16px;
+padding: 78px 0;
 }
 
 .sobreImagem{
-           width:
+           width: 3%;
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#1436a8, #1151b1);
+        color: rgb(12, 97, 224);
         display: flex;
         justify-content: center;
-       align-items: center;
-       padding: 370px 0;
+       align-items: 24px o;
+       padding: 15px 0;
 }
 
 .sobreConteudo{
-        width:
+    display: inline-block;
+    margin: 0 12px;
+    padding: 5px 0;
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+       width: 30%;
+
 }
+    
+.sobre{
+            
+         background-image: linear-gradient(#e4e7f0, #aab7ca);
+        color: rgb(12, 97, 224);
+        display: flex;
+        justify-content: center;
+       align-items: 24px o;
+       padding: 15px 0;
+}
+       .sobreConteudo{
+        width:40%
+       }
+
+       .sobretitulo{
+        padding: 20px
+       }
